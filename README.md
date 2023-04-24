@@ -1,6 +1,6 @@
 # Mercedes-Chatbot
 
-## Description:
+## Description for Mercedes Chatbot
 
 Lead Generation and Conversion: Chatbot can engage with potential customers, collect their information, and qualify them as leads.
 
