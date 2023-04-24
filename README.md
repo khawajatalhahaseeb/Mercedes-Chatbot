@@ -1,6 +1,6 @@
 # Mercedes-Chatbot
 
-## Benefits:
+## Description:
 
 Lead Generation and Conversion: Chatbot can engage with potential customers, collect their information, and qualify them as leads.
 
