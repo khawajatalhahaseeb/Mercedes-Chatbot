@@ -1,4 +1,4 @@
-# Mercedes-Chatbot
+# Mercedes Chatbot Android App
 
 ## Description for Mercedes Chatbot
 
